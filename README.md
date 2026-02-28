@@ -17,7 +17,7 @@ API RESTful para clon de chat — Trabajo Final Integrador · Desarrollo en Node
 
 ```bash
 # 1. Clonar el repo
-git clone https://github.com/<tu-usuario>/node-chat-backend.git
+git clone https://github.com/alanbrandariz2010/AB_node-chat-backend
 cd node-chat-backend
 
 # 2. Instalar dependencias
